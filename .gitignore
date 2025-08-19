@@ -1,0 +1,16 @@
+# Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+env/
+ai_project_env/
+*.env
+
+# OS files
+.DS_Store
